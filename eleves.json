@@ -1,0 +1,60 @@
+[
+
+
+    {
+        "id_etudiant":"00",
+        "nom":"Aucun etudiant selectionne",
+        "session":"Aucune",
+        "cours":["Aucun cours"]
+        
+        },
+    {
+        "id_etudiant":"01",
+        "nom":"Joe Bine",
+        "session":"1",
+        "cours":["Programmation Objet","Programmation Web"]
+            
+        },
+    {
+        "id_etudiant":"02",
+        "nom":"Joelle Binelle",
+        "session":"3",
+        "cours":["Programmation Objet","Programmation Web","Programmation Mobile","Micro Processeur"]
+            
+        }, 
+    {
+        "id_etudiant":"03",
+        "nom":"Zoe Zapata",
+        "session":"1",
+        "cours":["Programmation Objet"]
+            
+        }, 
+    {
+        "id_etudiant":"04",
+        "nom":"Alex Fiou",
+        "session":"2",
+        "cours":["Programmation Objet","Programmation Web","Programmation Mobile"]
+            
+        }, 
+    {
+        "id_etudiant":"05",
+        "nom":"Gregory Russel",
+        "session":"1",
+        "cours":["Programmation Web"]
+            
+        }, 
+    {
+        "id_etudiant":"06",
+        "nom":"Julia Esterel",
+        "session":"2",
+        "cours":["Programmation Objet","Programmation Web","Micro Processeur"]
+            
+        },
+     {
+        "id_etudiant":"07",
+        "nom":"Alexa Excel",
+        "session":"3",
+        "cours":["Programmation Objet","Programmation Web","Programmation Mobile","Micro Processeur"]
+            
+        }     ]
+    
